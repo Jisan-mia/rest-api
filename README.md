@@ -54,7 +54,15 @@
 
 #### HTTP headers characteristics
 
-![Alt text](image.png)
+![Alt text](./images/image-16.png)
+
+#### HTTP Request Methods
+
+![Alt text](./images/image-17.png)
+
+#### HTTP Response status codes
+
+![Alt text](./images/image-18.png)
 
 #### HTTPS: Secure version of HTTP
 
