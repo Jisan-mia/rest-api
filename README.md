@@ -91,3 +91,7 @@
 #### IP Headers
 
 ![Alt text](./images/image-15.png)
+
+#### MIME Types
+
+![Alt text](./images/image-19.png)
