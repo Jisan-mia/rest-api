@@ -1,3 +1,11 @@
+## Routing on the Server
+
+### Ways to define routes
+
+- Conditionally route requests (if/else, switch, regex, URLPattern)
+- Different responses, Different requests
+- Split up our Server code by function
+
 ## Networking Topics
 
 ### What happens when we make a request to: `https://www.google.com`
@@ -95,3 +103,5 @@
 #### MIME Types
 
 ![Alt text](./images/image-19.png)
+
+**NB: All the above images were collected from [Tech with Nader's rest-api tutorial](https://www.youtube.com/playlist?list=PLovN13bqAx7DOGGjHbVGH9XkjtQTykREl)**
